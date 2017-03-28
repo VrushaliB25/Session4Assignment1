@@ -1,0 +1,4 @@
+
+Answer is -
+C. Prints : Parent's method2()
+Parent's method1()
